@@ -1,4 +1,6 @@
-# This is the code for carotid segmentation and carotid artery plaques segmentation.
+# Carotid Artery Plaques Segmentation
+
+## This is the code for carotid segmentation and carotid artery plaques segmentation.
 
 ## How to use
 Use train2.py to train and valid the carotid segmentation.
